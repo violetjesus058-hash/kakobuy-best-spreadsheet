@@ -97,7 +97,6 @@ export const siteConfig = {
 
   // ---- External Links ----
   links: {
-    spreadsheet: 'https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254',
     contact: '/blog/usfans-about/',
   },
 

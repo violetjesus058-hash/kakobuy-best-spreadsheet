@@ -1,7 +1,22 @@
+import { readdirSync, statSync } from 'node:fs'
+import { join, relative } from 'node:path'
 import { defineConfig } from 'vitepress'
 import { siteConfig } from './theme/site-config.js'
 
 const { seo, brand } = siteConfig
+
+function collectLegacyMarkdown(dir = '.') {
+  const results = []
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    if (entry.name === 'node_modules' || entry.name === '.git' || entry.name === 'dist') continue
+    const absolute = join(dir, entry.name)
+    if (entry.isDirectory()) results.push(...collectLegacyMarkdown(absolute))
+    else if (entry.name.endsWith('.md') && relative('.', absolute) !== 'index.md') results.push(relative('.', absolute))
+  }
+  return results
+}
+
+const legacyMarkdownPages = collectLegacyMarkdown()
 
 // Internal repository documents must never become public pages or sitemap entries.
 const sitemapExcludedPaths = new Set([
@@ -54,54 +69,10 @@ export default defineConfig({
       url: seo.hostname,
       description: brand.description,
     })],
-    // Google Analytics events for spreadsheet and shopping links
-    ['script', {}, `
-      (function() {
-        function sendTracking(eventName) {
-          if (typeof window.gtag === 'function') {
-            window.gtag('event', eventName, {
-              'event_category': 'button_click',
-              'event_label': eventName,
-              'value': 1.0
-            });
-          }
-        }
-        function bindTracking() {
-          // Spreadsheet links: homepage CTA buttons + article text links
-          document.querySelectorAll('a.cta-spreadsheet, a[href*="docs.google.com/spreadsheets"]').forEach(function(el) {
-            if (!el.dataset.tracked) {
-              el.dataset.tracked = '1';
-              el.addEventListener('click', function() {
-                var name = el.classList.contains('cta-spreadsheet') ? 'spreadsheet_button_click' : 'spreadsheet_link_click';
-                sendTracking(name);
-              });
-            }
-          });
-          // Shopping links: homepage CTA buttons + article shopping buttons
-          document.querySelectorAll('a.cta-shopping, .shopping-btn, a[href*="repsootd.com"]').forEach(function(el) {
-            if (!el.dataset.tracked) {
-              el.dataset.tracked = '1';
-              el.addEventListener('click', function() {
-                sendTracking('shopping_button_click');
-              });
-            }
-          });
-        }
-        // Initial bind
-        if (document.readyState === 'loading') {
-          document.addEventListener('DOMContentLoaded', bindTracking);
-        } else {
-          bindTracking();
-        }
-        // Re-bind on SPA navigation (VitePress uses pushState)
-        var observer = new MutationObserver(function() { bindTracking(); });
-        observer.observe(document.body, { childList: true, subtree: true });
-      })();
-    `],
   ],
 
   themeConfig: {
-    nav: siteConfig.nav,
+    nav: [],
 
     notFound: {
       quote: 'The page you are looking for does not exist.',
@@ -144,7 +115,10 @@ export default defineConfig({
     return pageData
   },
 
+  // This project is intentionally a single-page reference site. Keep all legacy
+  // markdown content in the repository for archival purposes, but do not render it.
   srcExclude: [
+    ...legacyMarkdownPages,
     // Root-level internal documents (should not be indexed)
     'AI-PROJECT-GUIDE.md',
     'ARTICLE_PROMPT_GUIDE.md',
