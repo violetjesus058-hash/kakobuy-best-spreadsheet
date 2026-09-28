@@ -10,12 +10,11 @@
         <h1>Kakobuy Best Spreadsheet</h1>
         <p class="profile-bio">A focused, independent reference for menswear finds, QC notes and practical buying research. Clear information. No unnecessary exits.</p>
         <div class="trust-line"><span class="trust-check">✓</span> Independent resource · research before you buy</div>
-        <a class="sheet-cta" :href="links.spreadsheet" target="_blank" rel="nofollow sponsored noopener noreferrer" @click="trackSpreadsheet">
+        <a class="sheet-cta" :href="links.spreadsheet" target="_blank" rel="nofollow sponsored noopener noreferrer">
           <span class="sheet-cta-icon" aria-hidden="true">▤</span>
           <span class="sheet-cta-copy"><strong>Open the Kakobuy Spreadsheet</strong><small>Browse curated finds, QC references and updated categories</small></span>
           <span class="sheet-cta-arrow" aria-hidden="true">↗</span>
         </a>
-        <p class="sheet-cta-count">已累计跳转 {{ spreadsheetClicks }} 次</p>
       </header>
 
       <section class="link-group" aria-labelledby="focus-heading">
@@ -60,17 +59,9 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
 import { siteConfig } from '../site-config.js'
 
 const { links } = siteConfig
-const clickStorageKey = 'kakobuy-spreadsheet-clicks'
-const spreadsheetClicks = ref(Number(typeof window !== 'undefined' ? window.localStorage.getItem(clickStorageKey) || 0 : 0))
-
-function trackSpreadsheet() {
-  spreadsheetClicks.value += 1
-  try { window.localStorage.setItem(clickStorageKey, String(spreadsheetClicks.value)) } catch { /* storage may be disabled */ }
-}
 
 const categories = [
   { number: '01', label: 'Sneakers', note: 'Fit, materials & wear' },
@@ -104,7 +95,6 @@ const categories = [
 .sheet-cta-copy strong { font-size: 14px; font-weight: 850; line-height: 1.2; }
 .sheet-cta-copy small { color: #d8b6a2; font-size: 10px; line-height: 1.35; }
 .sheet-cta-arrow { color: #ffc49d; font-size: 20px; }
-.sheet-cta-count { margin: 8px 0 0; color: #8e9692; font-size: 10px; }
 .link-group { margin-top: 34px; }
 .group-heading { display: flex; align-items: center; gap: 10px; margin: 0 3px 12px; }
 .group-heading h2 { margin: 0; color: #aeb1b0; font-size: 10px; font-weight: 850; letter-spacing: .16em; text-transform: uppercase; white-space: nowrap; }
