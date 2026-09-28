@@ -7,12 +7,12 @@ export const siteConfig = {
 
   // ---- Brand ----
   brand: {
-    name: 'UsFans Spreadsheet',
-    tagline: 'Taobao, 1688 & Weidian Product Links with QC Research',
-    description: 'An independent UsFans resource for product links from Taobao, 1688 and Weidian, with category guides, QC photo references, sizing notes and spreadsheet access.',
+    name: 'Kakobuy Spreadsheet',
+    tagline: 'Menswear Finds with QC Research',
+    description: 'An independent Kakobuy resource for curated menswear finds, QC references, sizing notes and practical buying research.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
-    logoText: 'UsFans Spreadsheet',
+    logoText: 'Kakobuy Spreadsheet',
   },
 
   // ---- Navigation ----
@@ -104,9 +104,9 @@ export const siteConfig = {
   // ---- SEO Defaults ----
   seo: {
     hostname: 'https://usfanslinki.com',
-    title: 'USFans Spreadsheet 2026 | Taobao, 1688 & Weidian Product Links',
-    description: 'Browse USFans Spreadsheet product links from Taobao, 1688 and Weidian, with QC photo references, category guides and practical research context for global shoppers.',
-    keywords: ['usfans spreadsheet 2026', 'usfans spreadsheet', 'usfans product links', 'usfans taobao links', 'usfans 1688 links', 'usfans weidian links', 'usfans qc photos', 'usfans reddit', 'usfans telegram', 'usfans global shipping'],
+    title: 'Kakobuy Spreadsheet 2026 | Menswear Finds & QC Research',
+    description: 'Explore the Kakobuy Spreadsheet with curated menswear finds, QC references, category context and practical buying research.',
+    keywords: ['kakobuy spreadsheet 2026', 'kakobuy spreadsheet', 'kakobuy menswear finds', 'kakobuy qc references', 'kakobuy buying guide'],
     ga4: 'G-9WJTE8DY0P',
   },
 
