@@ -10,6 +10,12 @@
         <h1>Kakobuy Best Spreadsheet</h1>
         <p class="profile-bio">A focused, independent reference for menswear finds, QC notes and practical buying research. Clear information. No unnecessary exits.</p>
         <div class="trust-line"><span class="trust-check">✓</span> Independent resource · research before you buy</div>
+        <a class="sheet-cta" :href="links.spreadsheet" target="_blank" rel="nofollow sponsored noopener noreferrer" @click="trackSpreadsheet">
+          <span class="sheet-cta-icon" aria-hidden="true">▤</span>
+          <span class="sheet-cta-copy"><strong>Open the Kakobuy Spreadsheet</strong><small>Browse curated finds, QC references and updated categories</small></span>
+          <span class="sheet-cta-arrow" aria-hidden="true">↗</span>
+        </a>
+        <p class="sheet-cta-count">已累计跳转 {{ spreadsheetClicks }} 次</p>
       </header>
 
       <section class="link-group" aria-labelledby="focus-heading">
@@ -47,13 +53,25 @@
         </div>
       </section>
 
-      <p class="single-page-note">This is the complete site experience. There are no additional pages or external table links.</p>
+      <p class="single-page-note">One focused destination for Kakobuy Spreadsheet research. Verify live details before you buy.</p>
       <footer class="linktree-footer"><span class="footer-mark">K</span><span>Independent product research resource</span></footer>
     </div>
   </main>
 </template>
 
 <script setup>
+import { ref } from 'vue'
+import { siteConfig } from '../site-config.js'
+
+const { links } = siteConfig
+const clickStorageKey = 'kakobuy-spreadsheet-clicks'
+const spreadsheetClicks = ref(Number(typeof window !== 'undefined' ? window.localStorage.getItem(clickStorageKey) || 0 : 0))
+
+function trackSpreadsheet() {
+  spreadsheetClicks.value += 1
+  try { window.localStorage.setItem(clickStorageKey, String(spreadsheetClicks.value)) } catch { /* storage may be disabled */ }
+}
+
 const categories = [
   { number: '01', label: 'Sneakers', note: 'Fit, materials & wear' },
   { number: '02', label: 'Clothing', note: 'Layers, fabrics & sizing' },
@@ -78,6 +96,15 @@ const categories = [
 .profile-bio { max-width: 470px; margin: 13px auto 15px; color: var(--muted); font-size: 14px; line-height: 1.65; }
 .trust-line { display: inline-flex; align-items: center; gap: 7px; color: #b9bebc; font-size: 11px; }
 .trust-check { display: grid; place-items: center; width: 17px; height: 17px; border: 1px solid rgba(92,184,147,.55); border-radius: 50%; color: #79c9a5; font-size: 11px; }
+.sheet-cta { display: flex; align-items: center; gap: 12px; max-width: 560px; margin: 24px auto 0; padding: 12px 14px 12px 12px; border: 1px solid rgba(216,117,59,.78); border-radius: 14px; color: #fff; background: linear-gradient(105deg, #704126, #352522 72%); box-shadow: 0 14px 30px rgba(0,0,0,.28), inset 0 1px rgba(255,255,255,.1); text-align: left; text-decoration: none; transition: transform .18s ease, border-color .18s ease, background .18s ease; }
+.sheet-cta:hover { transform: translateY(-3px); border-color: #f0a06b; background: linear-gradient(105deg, #89502e, #422925 72%); }
+.sheet-cta:active { transform: scale(.98); }
+.sheet-cta-icon { display: grid; place-items: center; width: 43px; height: 43px; flex: 0 0 43px; border-radius: 10px; color: #ffd0aa; background: rgba(255,197,145,.15); font-size: 20px; font-weight: 900; }
+.sheet-cta-copy { display: grid; gap: 4px; min-width: 0; flex: 1; }
+.sheet-cta-copy strong { font-size: 14px; font-weight: 850; line-height: 1.2; }
+.sheet-cta-copy small { color: #d8b6a2; font-size: 10px; line-height: 1.35; }
+.sheet-cta-arrow { color: #ffc49d; font-size: 20px; }
+.sheet-cta-count { margin: 8px 0 0; color: #8e9692; font-size: 10px; }
 .link-group { margin-top: 34px; }
 .group-heading { display: flex; align-items: center; gap: 10px; margin: 0 3px 12px; }
 .group-heading h2 { margin: 0; color: #aeb1b0; font-size: 10px; font-weight: 850; letter-spacing: .16em; text-transform: uppercase; white-space: nowrap; }
@@ -106,5 +133,5 @@ const categories = [
 .single-page-note { margin: 29px 0 0; color: #7c8383; font-size: 10px; text-align: center; }
 .linktree-footer { display: flex; align-items: center; justify-content: center; gap: 8px; margin-top: 22px; color: #666c6c; font-size: 11px; }
 .footer-mark { display: grid; place-items: center; width: 21px; height: 21px; border-radius: 6px; color: #161616; background: #aeb3b0; font-size: 11px; font-weight: 900; }
-@media (max-width: 480px) { .linktree-home { padding: 29px 14px 25px; } .profile-avatar { width: 72px; height: 72px; font-size: 30px; } .trust-points { gap: 9px; } .trust-points span { font-size: 9px; } }
+@media (max-width: 480px) { .linktree-home { padding: 29px 14px 25px; } .profile-avatar { width: 72px; height: 72px; font-size: 30px; } .trust-points { gap: 9px; } .trust-points span { font-size: 9px; } .sheet-cta-copy small { font-size: 9px; } }
 </style>
