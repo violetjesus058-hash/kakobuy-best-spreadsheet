@@ -316,3 +316,8 @@ body { color: #111; background: #fff; }
   .article-preview-card,
   .article-action { transition: none; }
 }
+
+/* Immersive Linktree-style homepage: keep the content pages' navigation intact. */
+body:has(.linktree-home) .global-navbar,
+body:has(.linktree-home) .site-footer { display: none; }
+body:has(.linktree-home) .VPContent { min-height: 100vh; }
