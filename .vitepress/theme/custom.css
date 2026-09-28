@@ -320,4 +320,12 @@ body { color: #111; background: #fff; }
 /* Immersive Linktree-style homepage: keep the content pages' navigation intact. */
 body:has(.linktree-home) .global-navbar,
 body:has(.linktree-home) .site-footer { display: none; }
-body:has(.linktree-home) .VPContent { min-height: 100vh; }
+body:has(.linktree-home),
+body:has(.linktree-home) #app,
+body:has(.linktree-home) .VPApp,
+body:has(.linktree-home) .VPContent,
+body:has(.linktree-home) .VPDoc,
+body:has(.linktree-home) .VPDoc .container,
+body:has(.linktree-home) .VPDoc .content { width: 100%; max-width: none; margin: 0; padding: 0; }
+body:has(.linktree-home) .VPContent { min-height: 100svh; }
+body:has(.linktree-home) .VPDoc { display: block; }

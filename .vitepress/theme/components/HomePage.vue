@@ -74,7 +74,7 @@ const categories = [
 </script>
 
 <style scoped>
-.linktree-home { --ink: #f3f1ed; --muted: #999c9c; --dim: #686d6e; --line: rgba(255,255,255,.12); --orange: #d8753b; min-height: 100vh; position: relative; overflow: hidden; padding: 46px 20px 34px; color: var(--ink); background: #111516; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.linktree-home { --ink: #f3f1ed; --muted: #999c9c; --dim: #686d6e; --line: rgba(255,255,255,.12); --orange: #d8753b; box-sizing: border-box; width: 100%; min-height: 100vh; min-height: 100svh; position: relative; overflow: hidden; padding: clamp(30px, 6vh, 58px) 20px max(34px, env(safe-area-inset-bottom)); color: var(--ink); background: #111516; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 .linktree-shell { position: relative; z-index: 1; width: min(100%, 620px); margin: 0 auto; }
 .trust-glow { position: absolute; pointer-events: none; border-radius: 50%; filter: blur(1px); }
 .trust-glow-top { width: 520px; height: 360px; top: -270px; left: 50%; transform: translateX(-50%); background: rgba(216,117,59,.19); }
@@ -123,5 +123,5 @@ const categories = [
 .single-page-note { margin: 29px 0 0; color: #7c8383; font-size: 10px; text-align: center; }
 .linktree-footer { display: flex; align-items: center; justify-content: center; gap: 8px; margin-top: 22px; color: #666c6c; font-size: 11px; }
 .footer-mark { display: grid; place-items: center; width: 21px; height: 21px; border-radius: 6px; color: #161616; background: #aeb3b0; font-size: 11px; font-weight: 900; }
-@media (max-width: 480px) { .linktree-home { padding: 29px 14px 25px; } .profile-avatar { width: 72px; height: 72px; font-size: 30px; } .trust-points { gap: 9px; } .trust-points span { font-size: 9px; } .sheet-cta-copy small { font-size: 9px; } }
+@media (max-width: 480px) { .linktree-home { padding: 25px 14px max(28px, env(safe-area-inset-bottom)); } .linktree-shell { width: 100%; } .profile-avatar { width: 72px; height: 72px; font-size: 30px; } .profile-header h1 { font-size: clamp(25px, 8vw, 32px); } .profile-bio { font-size: 13px; } .trust-points { gap: 9px; } .trust-points span { font-size: 9px; } .sheet-cta { margin-top: 21px; } .sheet-cta-copy small { font-size: 9px; } }
 </style>
