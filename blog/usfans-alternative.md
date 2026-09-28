@@ -224,7 +224,7 @@ With a 4.7/5 customer satisfaction rating, 97.7% QC acceptance rate, and 92% on-
 
 
 
-We recommend reviewing the [Usfans spreadsheet](https://usfanslinki.com/) linked at the top of this article for real-time pricing data, seller ratings, and product availability. This resource provides up-to-date information that helps you make informed purchasing decisions regardless of which platform you choose.
+We recommend reviewing the [Usfans spreadsheet](/) linked at the top of this article for real-time pricing data, seller ratings, and product availability. This resource provides up-to-date information that helps you make informed purchasing decisions regardless of which platform you choose.
 
 
 

@@ -102,7 +102,7 @@ import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
-const shoppingUrl = 'https://repsootd.com/'
+const shoppingUrl = spreadsheetUrl
 
 /* Set either field to false in an article's frontmatter to render that control without a link. */
 const spreadsheetLinked = computed(() => frontmatter.value.spreadsheetLink !== false)

@@ -56,7 +56,7 @@ const { frontmatter } = useData()
 const route = useRoute()
 
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
-const shoppingUrl = 'https://repsootd.com/'
+const shoppingUrl = spreadsheetUrl
 const isArticle = computed(() => route.path.startsWith('/blog/') && route.path !== '/blog/' && frontmatter.value.articleHeader !== false)
 const articleTitle = computed(() => frontmatter.value.title || 'Usfans Spreadsheet Guide')
 

@@ -15,7 +15,7 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const clothesCategory = siteConfig.categories.find(c => c.id === 'clothes')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254'
 
 const productTypes = [
   {
@@ -172,7 +172,7 @@ The USFans Clothing Spreadsheet brings together clothing-focused guides for T-sh
     <span>View Clothes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/products/?q=T-Shirts" target="_blank" rel="nofollow sponsored noopener noreferrer" class="shopping-btn">Start shopping</a>
+  <a href="https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254?q=T-Shirts" target="_blank" rel="nofollow sponsored noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Clothing Categories

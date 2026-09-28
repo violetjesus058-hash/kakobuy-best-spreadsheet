@@ -66,7 +66,7 @@ Additionally, Usfans Spreadsheet's shipping infrastructure supports internationa
 
 ## How to Order Usfans Spreadsheet LEGO Sets
 
-Ordering building toys from Usfans Spreadsheet is straightforward, but a few steps can help you get the best results. Start by accessing the [Usfans spreadsheet](https://usfanslinki.com/), which contains the most up-to-date product listings, prices, and quality data. Use the filter function to sort by the building toy category, then narrow down by price range, piece count, or quality pass rate.
+Ordering building toys from Usfans Spreadsheet is straightforward, but a few steps can help you get the best results. Start by accessing the [Usfans spreadsheet](/), which contains the most up-to-date product listings, prices, and quality data. Use the filter function to sort by the building toy category, then narrow down by price range, piece count, or quality pass rate.
 
 Once you have identified a set you want, check the batch version listed in the spreadsheet. Newer batches typically have improved mold quality and more accurate color matching. If multiple batches are available, choose the one with the highest quality pass rate. Next, verify the piece count against the product description — reputable listings always include this information.
 

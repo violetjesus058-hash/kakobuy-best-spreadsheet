@@ -77,7 +77,7 @@ Selecting the right Usfans Spreadsheet women shoes involves understanding your s
 
 **Step 2: Understand Your Comfort Requirements**: Different shoes cater to different comfort levels. If you need shoes for extended wear, look for models with cushioned insoles and supportive designs like Nike Air Max or Yeezy 350. If you're attending a short event, you can prioritize styling over comfort with Balenciaga or Dior heels. The spreadsheet includes community feedback on comfort levels for each model.
 
-**Step 3: Review QC Photos Carefully**: Access the [Usfans spreadsheet](https://usfanslinki.com/) and examine the QC photos for your chosen model. Pay attention to the material quality, design details, and overall construction. For women's shoes, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
+**Step 3: Review QC Photos Carefully**: Access the [Usfans spreadsheet](/) and examine the QC photos for your chosen model. Pay attention to the material quality, design details, and overall construction. For women's shoes, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
 
 **Step 4: Check Sizing for Proper Fit**: Proper fit is critical for women's shoe comfort and wearability. Designer heels typically run true to size, while sneakers may vary by brand. Nike models typically run small, so go half a size up. Dior heels usually run true to size. If you're between sizes, consider your foot width and the shoe's design when making your decision.
 

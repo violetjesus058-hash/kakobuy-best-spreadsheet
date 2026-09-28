@@ -70,7 +70,7 @@ Fabric weight is another important factor for fall clothing. Most hoodies in the
 
 ## How to Order Usfans Spreadsheet Fall Clothes
 
-Ordering Usfans Spreadsheet fall clothes follows the same streamlined process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](https://usfanslinki.com/) to browse current availability, pricing, and batch information for all fall clothing products. The spreadsheet is updated regularly and includes real-time stock status, allowing you to plan your seasonal wardrobe based on what is actually available.
+Ordering Usfans Spreadsheet fall clothes follows the same streamlined process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](/) to browse current availability, pricing, and batch information for all fall clothing products. The spreadsheet is updated regularly and includes real-time stock status, allowing you to plan your seasonal wardrobe based on what is actually available.
 
 **Step 1: Assess Your Fall Wardrobe Needs**
 Before browsing, identify what your wardrobe lacks. Do you need basic hoodies for layering? A complete tracksuit for effortless styling? T-shirts for base layers? The spreadsheet organizes products by category, making it easy to find what you need. Consider color palettes—neutrals like black, grey, navy, and olive offer maximum versatility for fall, while earth tones like brown and burgundy add seasonal warmth.

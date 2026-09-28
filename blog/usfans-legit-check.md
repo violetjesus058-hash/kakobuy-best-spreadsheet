@@ -246,6 +246,6 @@ Start by building a library of reference images for the products you order most 
 
 
 
-For ongoing reference, the [Usfans spreadsheet](https://usfanslinki.com/) contains community-collected data on pass rates, pricing, and order volumes across thousands of products. Use it to set expectations, identify reliable sellers, and track quality trends over time. Combined with the verification steps outlined in this guide, you have everything needed to order with confidence in 2026 and beyond.
+For ongoing reference, the [Usfans spreadsheet](/) contains community-collected data on pass rates, pricing, and order volumes across thousands of products. Use it to set expectations, identify reliable sellers, and track quality trends over time. Combined with the verification steps outlined in this guide, you have everything needed to order with confidence in 2026 and beyond.
 
 Choosing the right Legit Check becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

@@ -70,7 +70,7 @@ Smart buyers verify any fashion resource independently rather than relying solel
 
 ### Check the Spreadsheet Directly
 
-The most direct verification method is to browse the [Usfans Spreadsheet](https://usfanslinki.com/) yourself. Evaluate the organization quality, information accuracy, and update frequency. A well-maintained directory with consistent formatting and current pricing references demonstrates active management.
+The most direct verification method is to browse the [Usfans Spreadsheet](/) yourself. Evaluate the organization quality, information accuracy, and update frequency. A well-maintained directory with consistent formatting and current pricing references demonstrates active management.
 
 ### Review Community Feedback
 
@@ -109,7 +109,7 @@ Here are representative products from the spreadsheet that demonstrate the range
 ## FAQ
 
 ### How can I independently verify Usfans Spreadsheet legitimacy?
-Browse the [spreadsheet directly](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270), check Reddit communities for user feedback, and evaluate the information quality across categories. Our [Usfans legit check](/blog/usfans-legit-check/) guide offers a structured verification approach.
+Browse the [spreadsheet directly](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254), check Reddit communities for user feedback, and evaluate the information quality across categories. Our [Usfans legit check](/blog/usfans-legit-check/) guide offers a structured verification approach.
 
 ### What makes Usfans Spreadsheet different from shopping agents?
 Usfans Spreadsheet is a product directory, not a shopping agent. It organizes product information and provides shopping guides — it does not process payments, handle orders, or manage shipping. This distinction is important for setting accurate expectations.
@@ -126,6 +126,6 @@ The evidence supporting Usfans Spreadsheet legitimacy is straightforward: it is 
 
 Independent verification through the spreadsheet itself, community feedback, and information quality evaluation consistently confirms the platform's value as a fashion discovery resource. For users seeking organized product information and helpful shopping guides, Usfans Spreadsheet represents a reliable, transparent option.
 
-Explore the [full spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) to discover organized product listings, or browse our category guides for [Nike](/blog/usfans-nike/), [Jordan](/blog/usfans-jordan/), and [Adidas](/blog/usfans-adidas/) to get started.
+Explore the [full spreadsheet](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254) to discover organized product listings, or browse our category guides for [Nike](/blog/usfans-nike/), [Jordan](/blog/usfans-jordan/), and [Adidas](/blog/usfans-adidas/) to get started.
 
 Choosing the right Legitimacy becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

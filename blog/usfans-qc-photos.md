@@ -134,7 +134,7 @@ The Usfans Spreadsheet qc photos system is your most powerful tool for ensuring 
 
 Quality verification is not just about catching defects. It is about building confidence in your purchasing decisions and developing the expertise to distinguish between acceptable minor variations and genuine quality concerns. As you review more QC photos across different product categories, your ability to quickly assess quality will sharpen, making the process faster and more intuitive over time.
 
-For buyers looking to benchmark quality expectations across different products and categories, the [Usfans Spreadsheet](https://usfanslinki.com/) provides comprehensive data on quality pass rates, order volumes, and buyer satisfaction metrics. Use this resource alongside your QC photo reviews to set accurate expectations and make data-informed decisions about every order you place.
+For buyers looking to benchmark quality expectations across different products and categories, the [Usfans Spreadsheet](/) provides comprehensive data on quality pass rates, order volumes, and buyer satisfaction metrics. Use this resource alongside your QC photo reviews to set accurate expectations and make data-informed decisions about every order you place.
 
 Take the time to master the QC photo review process —it is the single most impactful habit you can develop as a Usfans Spreadsheet buyer. Your future self, holding a product that matches your expectations perfectly, will thank you for the diligence you exercise today.
 

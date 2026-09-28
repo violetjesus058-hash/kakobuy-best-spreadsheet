@@ -119,6 +119,6 @@ The adidas collection on Usfans Spreadsheet offers a focused selection of two ve
 
 Whether you are looking for a classic tracksuit or everyday sneakers, the combination of detailed QC photos, batch comparisons, and real buyer feedback gives you the confidence to order knowing exactly what you will receive.
 
-Browse the full [Usfans spreadsheet](https://usfanslinki.com/) to explore all available Adidas products, compare batch versions, and find the best deals.
+Browse the full [Usfans spreadsheet](/) to explore all available Adidas products, compare batch versions, and find the best deals.
 
 Choosing the right Adidas becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

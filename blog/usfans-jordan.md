@@ -274,6 +274,6 @@ The key to a successful purchase is using the tools available: review QC photos 
 
 
 
-Browse the full [Usfans spreadsheet](https://usfanslinki.com/) to explore current listings, compare batch options, and find the Jordan sneakers that match your style and budget.
+Browse the full [Usfans spreadsheet](/) to explore current listings, compare batch options, and find the Jordan sneakers that match your style and budget.
 
 Choosing the right Jordan becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

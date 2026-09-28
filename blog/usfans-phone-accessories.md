@@ -62,7 +62,7 @@ For buyers new to the platform, phone accessories are often recommended as "star
 
 ## How to Order Usfans Spreadsheet Phone Accessories
 
-Ordering Usfans Spreadsheet phone accessories follows the same process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](https://usfanslinki.com/) to browse current availability, pricing, and batch information for all phone accessory products. The spreadsheet is updated regularly and includes real-time stock status, allowing you to plan your order based on what is actually available.
+Ordering Usfans Spreadsheet phone accessories follows the same process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](/) to browse current availability, pricing, and batch information for all phone accessory products. The spreadsheet is updated regularly and includes real-time stock status, allowing you to plan your order based on what is actually available.
 
 **Step 1: Identify Your Device and Needs**
 Confirm your exact phone model before browsing phone cases, as compatibility varies by device. For audio equipment, consider whether you need wired or wireless options, and check battery life specifications if available. The spreadsheet lists which phone models each case variant supports and provides detailed specifications for audio products.

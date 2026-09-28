@@ -187,7 +187,7 @@ For more details on specific brands, check out our [Usfans nike param($m); $path
 ### Conclusion Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to spreadsheet or main guide
-- **Example**: "Browse the full [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) to discover..."
+- **Example**: "Browse the full [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254) to discover..."
 
 ### Related Guides Section
 - **Link count**: Exactly 3 links

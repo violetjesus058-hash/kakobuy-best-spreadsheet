@@ -73,7 +73,7 @@ Selecting the right Usfans Spreadsheet daily wear shoes involves more than just 
 
 **Step 1: Assess Your Daily Activities**: Consider how you'll use the shoes. If you're standing for 8+ hours, prioritize models with advanced cushioning like Nike Air Max 95 or Asics. For moderate use with occasional long days, Nike Air Force 1 or Adidas models work well. For around-the-house comfort, Yeezy Slippers offer excellent value.
 
-**Step 2: Review QC Photos**: Access the [Usfans spreadsheet](https://usfanslinki.com/) and examine the QC photos for your chosen model. Pay attention to the midsole thickness, upper material quality, and overall construction. Compare different batch versions to select the highest-quality option within your budget.
+**Step 2: Review QC Photos**: Access the [Usfans spreadsheet](/) and examine the QC photos for your chosen model. Pay attention to the midsole thickness, upper material quality, and overall construction. Compare different batch versions to select the highest-quality option within your budget.
 
 **Step 3: Check Sizing Carefully**: Proper fit is critical for comfort. The [Usfans sizing guide](/blog/usfans-sizing-guide/) provides brand-specific recommendations. Nike models typically run small, so go half a size up. Asics and Adidas usually run true to size. If you're between sizes for daily wear, sizing up is generally safer as it allows for foot swelling during long days.
 
@@ -111,6 +111,6 @@ Usfans Spreadsheet daily wear shoes deliver the comfort and durability needed fo
 
 Whether you need advanced cushioning from Nike Air Max 95, superior support from Asics, or classic comfort from Nike Air Force 1, Usfans Spreadsheet daily wear shoes provide verified quality without the retail markup. The 72% repurchase rate demonstrates that buyers trust the platform for consistent comfort and reliability.
 
-Ready to find your perfect daily wear pair? Access the [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) to explore comfort-focused models, review QC photos, and order with confidence.---
+Ready to find your perfect daily wear pair? Access the [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254) to explore comfort-focused models, review QC photos, and order with confidence.---
 
 Choosing the right Daily Wear Shoes becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

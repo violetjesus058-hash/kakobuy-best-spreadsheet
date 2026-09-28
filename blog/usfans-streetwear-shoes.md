@@ -73,7 +73,7 @@ Building your streetwear footwear collection through requires on Usfans Spreadsh
 
 **Step 1: Define Your Streetwear Aesthetic**: Streetwear encompasses multiple styles. Are you into classic skate culture (Nike Dunks, Jordan 4s), high-fashion street (Balenciaga, Off-white), or Japanese streetwear (Bape)? Understanding your preferred aesthetic helps narrow down choices. The spreadsheet organizes shoes by style, making it easier to find models that match your vision.
 
-**Step 2: Study QC Photos Carefully**: For streetwear shoes, details matter immensely. Access the [Usfans spreadsheet](https://usfanslinki.com/) and examine QC photos for your chosen model. Look for accurate logo placement, correct colorways, proper material texture, and clean construction. Compare different batch versions to select the highest-quality option.
+**Step 2: Study QC Photos Carefully**: For streetwear shoes, details matter immensely. Access the [Usfans spreadsheet](/) and examine QC photos for your chosen model. Look for accurate logo placement, correct colorways, proper material texture, and clean construction. Compare different batch versions to select the highest-quality option.
 
 **Step 3: Check Sizing and Fit**: Streetwear shoes often have specific fit requirements. Nike Dunks typically run true to size, while Balenciaga chunky sneakers may require sizing up. Jordan 4s usually fit true to size with adequate room. Refer to the [Usfans sizing guide](/blog/usfans-sizing-guide/) for brand-specific recommendations to ensure proper fit.
 
@@ -111,6 +111,6 @@ Usfans Spreadsheet streetwear shoes deliver authentic urban style at accessible 
 
 Whether you prefer classic Nike Dunks, bold Balenciaga chunky sneakers, or Japanese streetwear from Bape, Usfans Spreadsheet streetwear shoes provide verified quality and accurate designs. The strong order numbers and positive community feedback demonstrate that buyers trust the platform for streetwear footwear that delivers on style and quality.
 
-Ready to elevate your streetwear game? Access the [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) to explore streetwear shoe models, review detailed QC photos, and order your next statement piece with confidence.---
+Ready to elevate your streetwear game? Access the [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254) to explore streetwear shoe models, review detailed QC photos, and order your next statement piece with confidence.---
 
 Choosing the right Streetwear Shoes becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

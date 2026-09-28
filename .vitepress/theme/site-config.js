@@ -97,8 +97,8 @@ export const siteConfig = {
 
   // ---- External Links ----
   links: {
-    spreadsheet: 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270',
-    contact: 'mailto:hello@usfanslinki.com',
+    spreadsheet: 'https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254',
+    contact: '/blog/usfans-about/',
   },
 
   // ---- SEO Defaults ----

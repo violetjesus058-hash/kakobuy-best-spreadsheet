@@ -65,7 +65,7 @@ Community feedback plays a vital role in maintaining these standards. The Usfans
 
 ## How to Order Labubu Figures on Usfans Spreadsheet
 
-Ordering Labubu figures from Usfans Spreadsheet is a simple process, but a few strategies can help you get the best results. Start by accessing the [Usfans spreadsheet](https://usfanslinki.com/) and navigating to the designer toy section. Filter by Labubu to see all available figures, then sort by quality pass rate or price to find options that match your preferences.
+Ordering Labubu figures from Usfans Spreadsheet is a simple process, but a few strategies can help you get the best results. Start by accessing the [Usfans spreadsheet](/) and navigating to the designer toy section. Filter by Labubu to see all available figures, then sort by quality pass rate or price to find options that match your preferences.
 
 For blind box purchases, check whether the listing specifies "sealed" or "opened/confirmed." Sealed blind boxes maintain the surprise element, while confirmed boxes guarantee a specific figure from the series — typically at a slightly higher price. If you are hunting for a secret chase variant, confirmed boxes are the safer choice, though they cost more.
 

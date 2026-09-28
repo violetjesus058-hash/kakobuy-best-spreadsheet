@@ -74,7 +74,7 @@ Shipping performance is another strong point. Phone cases are lightweight and co
 
 ## How to Order Usfans Spreadsheet Phone Cases
 
-Ordering a Usfans Spreadsheet phone case follows the same streamlined process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](https://usfanslinki.com/) to browse current availability, pricing, and batch information for all phone case variants. The spreadsheet is updated regularly and includes real-time stock status.
+Ordering a Usfans Spreadsheet phone case follows the same streamlined process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](/) to browse current availability, pricing, and batch information for all phone case variants. The spreadsheet is updated regularly and includes real-time stock status.
 
 **Step 1: Identify Your Device Model**
 Confirm your exact phone model before browsing. Case compatibility varies by device, and the spreadsheet lists which models each variant supports. Most cases in the collection fit the latest iPhone and Samsung Galaxy series, with some variants also covering Google Pixel and OnePlus models.

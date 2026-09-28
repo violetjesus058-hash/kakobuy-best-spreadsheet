@@ -52,7 +52,7 @@ This guide breaks down the best budget-friendly products currently available on 
 
 
 
-For a complete overview of all available products and current pricing, check out the [Usfans spreadsheet](https://usfanslinki.com/) which is updated regularly with the latest inventory.
+For a complete overview of all available products and current pricing, check out the [Usfans spreadsheet](/) which is updated regularly with the latest inventory.
 
 
 
@@ -204,7 +204,7 @@ From the $12.86 Nike AF1 Low that gives you an iconic sneaker look for pocket ch
 
 
 
-The key to making the most of **Usfans Spreadsheet budget picks** is staying informed and acting quickly. Inventory moves fast at these price points, and popular sizes don't stick around long. Use the [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) as your go-to resource for current pricing and availability, and don't be afraid to grab multiple items when you find something you like.
+The key to making the most of **Usfans Spreadsheet budget picks** is staying informed and acting quickly. Inventory moves fast at these price points, and popular sizes don't stick around long. Use the [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254) as your go-to resource for current pricing and availability, and don't be afraid to grab multiple items when you find something you like.
 
 
 

@@ -69,7 +69,7 @@ Fabric technology is another important factor for gym gear. Most performance T-s
 
 ## How to Order Usfans Spreadsheet Gym Gear
 
-Ordering Usfans Spreadsheet gym gear follows the same streamlined process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](https://usfanslinki.com/) to browse current availability, pricing, and batch information for all gym gear products. The spreadsheet is updated regularly and includes real-time stock status, allowing you to plan your fitness wardrobe based on what is actually available.
+Ordering Usfans Spreadsheet gym gear follows the same streamlined process used across the entire Usfans Spreadsheet platform. Start by accessing the [Usfans spreadsheet](/) to browse current availability, pricing, and batch information for all gym gear products. The spreadsheet is updated regularly and includes real-time stock status, allowing you to plan your fitness wardrobe based on what is actually available.
 
 **Step 1: Assess Your Gym Gear Needs**
 Before browsing, identify what your workout wardrobe lacks. Do you need basic T-shirts for training? Athletic shorts for mobility? A complete tracksuit for warm-ups? The spreadsheet organizes products by category, making it easy to find what you need. Consider your training style—weightlifters may prioritize durable shorts, while runners focus on lightweight, breathable fabrics.

@@ -213,6 +213,6 @@ Whether you are a first-time buyer looking for guidance or an experienced shoppe
 
 
 
-Do not forget to access the [Usfans spreadsheet](https://usfanslinki.com/) for detailed pricing data, batch comparisons, and historical trends that complement the real-time discussions happening on Telegram. Join the channel today, introduce yourself, and start tapping into the collective wisdom of one of the most active replica shopping communities online.
+Do not forget to access the [Usfans spreadsheet](/) for detailed pricing data, batch comparisons, and historical trends that complement the real-time discussions happening on Telegram. Join the channel today, introduce yourself, and start tapping into the collective wisdom of one of the most active replica shopping communities online.
 
 Choosing the right Telegram becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Usfans Spreadsheet homepage for additional shopping resources and regularly updated product guides.

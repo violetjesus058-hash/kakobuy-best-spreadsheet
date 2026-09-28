@@ -11,7 +11,7 @@ tags:
 updated: '2026-08-14T00:00:00Z'
 ---
 
-<a href="https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270" target="_blank" rel="nofollow">Explore Is Usfans Legit in Usfans Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Explore Is Usfans Legit in Usfans Spreadsheet</a>
 
 Is Usfans Legit is presented as a evidence checklist. Is Usfans Legit requires a clear use case; Is Usfans Legit should not be treated as a generic recommendation. For Is Usfans Legit, record confirmed details and keep open questions visible.
 

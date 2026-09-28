@@ -205,7 +205,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Guide reader to the spreadsheet or related guides
 **Variants**:
 - **M9a - Spreadsheet Link**: Direct users to the product directory
-  - Format: "[Access Usfans Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) — Browse [category] listings"
+  - Format: "[Access Usfans Spreadsheet](https://docs.google.com/spreadsheets/d/1PPoujdSt0MiLO6RIVEZUqmi3-UpOoOKZeHt5Jpt6gno/edit?gid=1903531254#gid=1903531254) — Browse [category] listings"
 - **M9b - Related Guide Suggestion**: Recommend logical follow-up reading
   - Format: "For more information about [related topic], explore our [guide name]..."
 - **M9c - Category Exploration**: Encourage browsing other categories
